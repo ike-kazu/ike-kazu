@@ -3,6 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ike-kazu&count_private=true)
 
 ## Published Packages
+[Blog](https://kaz1.blog/)
 
 ## Utilities
 
