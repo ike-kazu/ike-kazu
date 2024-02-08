@@ -3,18 +3,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=ike-kazu&count_private=true)
 
 ## Published Packages
-[Blog](https://kaz1.blog/)
+[Original Blog](https://kaz1.blog/)
+[Qiita](https://qiita.com/k1ch1)
+[hatena Blog](https://kich12345.hatenablog.com/)
+[Web&Game Portfolios](https://kaz1.blog/portfolios/)
+[NVIDIA AI Certification Program](https://github.com/ike-kazu/SquatTrainer)
+
 
 ## Utilities
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CAD(Fusion)
+- Network Design
